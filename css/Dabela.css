@@ -1,0 +1,13 @@
+*{
+
+}
+.tabela{
+    display: flex;
+    justify-content: center;
+    border-top: 20px;
+    margin: 50px auto;
+}
+
+.tabela table{
+   background-color: white;
+}
